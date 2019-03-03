@@ -1,5 +1,7 @@
 # formidable-serverless
 
+[![npm version](https://badge.fury.io/js/formidable-serverless.svg)](https://badge.fury.io/js/formidable-serverless)
+
 ## Purpose
 
 This module is a variant of [formidable](https://www.npmjs.com/package/formidable) with tweaks to enable use in serverless environments (AWS Lambda, Firebase/Google Cloud Functions, etc.) and environments where the request has already been processed (e.g. by bodyparser).
