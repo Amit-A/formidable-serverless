@@ -1,6 +1,6 @@
 {
   "name": "formidable-serverless",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Enables use of formidable (node.js module for parsing form data, especially file uploads) in serverless environments.",
   "license": "MIT",
   "dependencies": {
