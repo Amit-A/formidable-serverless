@@ -8,6 +8,10 @@ This module is a variant of [formidable](https://www.npmjs.com/package/formidabl
 
 The functionality and usage/API are identical to [formidable](https://www.npmjs.com/package/formidable) (documentation cloned below).
 
+## Status
+
+Sponsored and maintained by the folks at [testmail.app](https://testmail.app)
+
 ## How it works
 
 The preprocessing by bodyparsers built-in to serverless environments breaks formidable's parse handlers and causes "Request Aborted" errors. This module imports formidable as a dependency and modifies the handlers to support preprocessed request bodies.
