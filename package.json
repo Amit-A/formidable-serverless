@@ -20,10 +20,6 @@
     "lambda"
   ],
   "homepage": "https://github.com/Amit-A/formidable-serverless",
-  "author": {
-    "name": "Amit A.Kumar",
-    "email": "kumar.amit@live.ca"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Amit-A/formidable-serverless.git"
